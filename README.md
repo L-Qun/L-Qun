@@ -1,6 +1,8 @@
-## Hi there 👋
+
 
 <!--
+## Hi there 👋
+
 **L-Qun/L-Qun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +16,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<img alt="Linclon's Github Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=L-Qun&show_icons=true&include_all_commits=true&hide=stars&show=prs_merged&theme=transparent&count_private=true" height="170px"> <img alt="Lincoln's Top langs" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L-Qun&layout=compact&show_icons=true&langs_count=8&include_all_commits=true&theme=transparent" height="170px">
+
+
+
+
+
+
