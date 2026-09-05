@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-<img alt="Linclon's Github Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=L-Qun&show_icons=true&include_all_commits=true&hide=stars&show=prs_merged&theme=transparent&count_private=true" height="170px">
+<img alt="L-Qun's GitHub stats and rank" align="center" src="./profile/stats.svg" height="170">
 
 
 
