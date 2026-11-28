@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Lincoln&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Commits  : 2587, Total PRs: 1086, Total PRs Merged: 1053, Total Issues: 15, Contributed to (last year): 5</desc>
+        <desc id="descId">Total Commits  : 2590, Total PRs: 1089, Total PRs Merged: 1056, Total Issues: 15, Contributed to (last year): 5</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 72.86618825767087;
+        stroke-dashoffset: 72.8517058262949;
       }
     }
   
